@@ -45,6 +45,7 @@ body{
     align-items: center;
     justify-content: space-between;
     gap: 82px;
+    font-family: var(--fonte-secundaria);
 }
 
 .apresentacao-conteudo{
